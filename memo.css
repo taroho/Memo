@@ -6,16 +6,12 @@ ul{
 
 .side {
   background-color:#ff838b;
-  width:100px;
-  height:300px;
-  text-align:center;
+  width:20%;
 } 
 
 .content {
   background-color:#b3d874;
-  width:250px;
-  height:300px;
-  text-align:center;
+  width:75%;
   margin-left:10px;
 }
 
