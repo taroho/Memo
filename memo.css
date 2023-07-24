@@ -12,13 +12,12 @@ ul{
 }
 
 .main-contents {
-  width: 55%;
+  width: 85%;
   padding: 10px;
   background-color: #ccc;
 }
 
-.left-menu,
-.right-menu {
+.left-menu {
   width: 15%;
   padding: 10px;
   background-color: #faa;
