@@ -4,21 +4,21 @@ ul{
     margin: auto;
 }
 
-.container {
-  width: 90%;
-  margin: 0 auto;
-  display: flex;
-  justify-content: space-between;
+.side {
+  background-color:#ff838b;
+  width:100px;
+  height:300px;
+  text-align:center;
+} 
+
+.content {
+  background-color:#b3d874;
+  width:250px;
+  height:300px;
+  text-align:center;
+  margin-left:10px;
 }
 
-.main-contents {
-  width: 85%;
-  padding: 10px;
-  background-color: #ccc;
-}
-
-.left-menu {
-  width: 15%;
-  padding: 10px;
-  background-color: #faa;
+article {
+  display:flex;
 }
